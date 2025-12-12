@@ -1,1 +1,8 @@
-
+/Pedrozhub
+  /src
+    /engine
+    /mods
+    /launcher
+  main.lua
+  config.json
+  flags.json
