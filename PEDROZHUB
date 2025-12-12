@@ -22,3 +22,4 @@ def apply_low_texture():
     "graySky": false,
     "fpsLimit": 60
 }
+estrutura inicial
