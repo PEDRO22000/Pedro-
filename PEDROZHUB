@@ -17,3 +17,8 @@ root.mainloop()main.py
 flags = {}
 def apply_low_texture():
     print("Low texture aplicada")
+{
+    "lowTexture": false,
+    "graySky": false,
+    "fpsLimit": 60
+}
