@@ -10,3 +10,7 @@ title = ttk.Label(root, text="PEDROZHUB - Inicializador", font=("Segoe UI", 16))
 title.pack(pady=20)
 
 root.mainloop()main.py
+/src
+/ui
+/config
+/assets
