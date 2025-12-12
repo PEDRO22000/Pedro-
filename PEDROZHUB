@@ -15,3 +15,5 @@ root.mainloop()main.py
 /config
 /assets
 flags = {}
+def apply_low_texture():
+    print("Low texture aplicada")
